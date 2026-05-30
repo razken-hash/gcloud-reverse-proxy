@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: Google_Cloud_Reverse_Proxy
